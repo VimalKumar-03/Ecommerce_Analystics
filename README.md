@@ -3,6 +3,7 @@
 ## Project Overview
 This project analyzes e-commerce search behavior to understand how users interact with an online store during product searches. The goal is to identify search performance issues, demand trends, and user preferences that impact product discovery and business decisions.
 
+## Datase : https://drive.google.com/file/d/12r1l-nMxtqsvDUamhZo2tUPH-eifqCVC/view?usp=drive_link
 ## Objectives
 - Analyze total search activity
 - Identify zero and low result searches
